@@ -43,7 +43,3 @@ python bot.py
 - The bot will check the GitHub repository for new commits every minute. This frequency can be adjusted in the `@tasks.loop(minutes=1.0)` line in `bot.py`.
 
 - Be sure not to share your `.env` file or expose it in your public GitHub repository, as it contains sensitive tokens.
-
----
-
-This template provides an overview of the bot, setup instructions, available commands, and notes about usage. It can be expanded or customized as needed.
