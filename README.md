@@ -1,7 +1,3 @@
-Sure, here's a template for a `README.md` file for this bot:
-
----
-
 # GitHub Commit Discord Bot
 
 This bot will monitor a specified GitHub repository and post the details of new commits to a specified Discord channel. It uses Discord.py for bot creation and aiohttp for asynchronous HTTP requests to the GitHub API.
