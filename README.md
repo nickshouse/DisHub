@@ -20,7 +20,7 @@ pip install discord.py python-dotenv aiohttp
 
 2. Install the required packages from above.
 
-3. Create a `.env` file in the same directory as `bot.py` and add the following lines:
+3. Create a `.env` file in the same directory as `main.py` and add the following lines:
 ```
 BOT_TOKEN=your-bot-token
 CHANNEL_ID=your-channel-id
